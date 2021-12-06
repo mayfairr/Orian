@@ -1,0 +1,11 @@
+[package]
+name = "Orian"
+description = "Chess assistant developed in Rust"
+version = "0.1.0"
+authors = ["mayfairr"]
+
+repository = "https://github.com/mayfairr/Orian"
+
+edition = "2021"
+license = "MIT"
+readme = "README.md"
